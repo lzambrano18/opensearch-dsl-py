@@ -523,3 +523,11 @@ class ParentId(Query):
 
 class Wrapper(Query):
     name = "wrapper"
+
+
+class Hybrid(Query):
+    name = "hybrid"
+
+
+class Neural(Query):
+    name = "neural"
