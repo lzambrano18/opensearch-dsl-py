@@ -531,3 +531,7 @@ class Hybrid(Query):
 
 class Neural(Query):
     name = "neural"
+
+
+class Shoud(Query):
+    name = "should"
